@@ -1,6 +1,6 @@
 homepage: "https://www.adcell.de"
-documentation: "XXX"
+documentation: "https://github.com/ADCELL/adcell-gtm-conversiontracking/blob/main/README.md"
 versions:
-  - sha: XXX
+  - sha: c4b580d9af62e0175f424db75f04fb25ac744b12
     changeNotes: Initial release.
 
